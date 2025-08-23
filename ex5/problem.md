@@ -1,4 +1,4 @@
-# Exercise 06: Character Classification Function
+# Exercise 05: Character Classification Function
 
 ## Problem Description
 Create a function that analyzes a character array and counts how many uppercase letters, lowercase letters, and digits it contains. The function should use pass by reference to return the three counts.
