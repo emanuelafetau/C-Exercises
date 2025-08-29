@@ -1,4 +1,4 @@
-# Exercise 09: Dynamic Array Management with Constants
+# Exercise 08: Dynamic Array Management with Constants
 
 ## Problem Description
 Create a function that manages a dynamic array by adding elements to the end. Use a defined constant for the maximum array size and implement proper bounds checking. The function should handle array capacity limits gracefully.
